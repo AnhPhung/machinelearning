@@ -1,2 +1,2 @@
-# machinelearning
-by UW
+# Machine Learning Specialization
+by University of Washington
